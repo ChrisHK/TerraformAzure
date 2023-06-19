@@ -13,7 +13,7 @@ main.tf
 7. A Key Pair
 8. SSH Config
 9. Custom Data
-10. 
+
 ----------------------
 Customdata.tpl
 Customdata temple
