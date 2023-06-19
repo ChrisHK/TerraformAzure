@@ -16,14 +16,18 @@ main.tf
 
 ----------------------
 Customdata.tpl
+
 Customdata temple
 
 ----------------------
 mac-ssh-script.tpl
+
 Mac OS SSH connection script temple
 ----------------------
 windows-ssh-script.tpl
+
 Windows OS SSH connection script temple
 ----------------------
 Variables.tf
+
 Variables table
